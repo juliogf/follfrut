@@ -1,0 +1,28 @@
+{
+  "name": "follfrut",
+  "version": "1.0.0",
+  "description": "Pagina web follfrut",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliogf/follfrut.git"
+  },
+  "author": "juliogf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juliogf/follfrut/issues"
+  },
+  "homepage": "https://github.com/juliogf/follfrut#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp-inject": "^4.1.0",
+    "gulp-webserver": "^0.9.1",
+    "main-bower-files": "^2.13.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
